@@ -1,0 +1,3 @@
+C:/Users/Dar/Downloads/oop_darina/oop_darina/cmake-build-debug/CMakeFiles/oop_darina.dir
+C:/Users/Dar/Downloads/oop_darina/oop_darina/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Dar/Downloads/oop_darina/oop_darina/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/purchase.h
+
+C:/Users/Dar/Downloads/oop_darina/oop_darina/src/main.cpp
+iostream
+-
+assert.h
+-
+purchase.h
+-
+
+C:/Users/Dar/Downloads/oop_darina/oop_darina/src/purchase.cpp
+purchase.h
+-
+
